@@ -1,13 +1,11 @@
 ---
-title: "Welcome to My First Attempt at hosting a website on GitHub using Jekyll"
+title: "Rippin' Tiered Network using Cisco Packet Tracer"
 layout: post
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-iy31DJKHdA?si=f31ANRcKuBo2L9pr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Well, ok then!
 
-It took me four tries but I finally found the template that makes sense with GitPages as a total beginner. The video I saw in my class content helped me get this far. I also tried to push my own index file created on my computer via Notepad and Git Bash as the terminal. I was able to create repositories, but struggled with seeing the web page ever show up. I can see now how forking from a template that is compatible with GitHub pages and then naming it as your website repository that comes free with GitHub is a valid solution. I learned a lot though about how to use concepts of remote and local, push and pull, and origin and master (or main). I have a ways to go to be a pro at it but this is a great start!
 
 
 
