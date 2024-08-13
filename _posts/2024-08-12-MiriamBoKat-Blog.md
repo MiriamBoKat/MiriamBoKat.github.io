@@ -2,7 +2,7 @@
 title: "Cisco Packet Tracer Videos by MiriamBoKat"
 layout: post
 ---
-Portfolio of work from my time as a student at Calbright College - All videos are meant as calm experiences of using networking devices and not intended to be used as teaching materials in any official capacity. Packet Tracer is courtesy of Cisco Systems, Inc. And the labs are courtesy of CompTIA CertMaster. Music is courtesy of Youtube Audio Library. Videos created using Canva and OBS Studio.
+Portfolio of work from my time as a student at Calbright College - All videos are meant as calm experiences of using networking devices and not intended to be used as teaching materials in any official capacity. Packet Tracer is courtesy of Cisco Systems, Inc. And the labs are courtesy of CompTIA CertMaster. Music is courtesy of Youtube Audio Library. Videos created using Canva and OBS Studio. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XJAyw4TARs8?si=z1sDmIXNELcIvjsM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
